@@ -1,6 +1,6 @@
 /**
  *
- * @author Kyle Andersen
+ * @author Kyle Andersen 
  */
 
 public class Class1 {
